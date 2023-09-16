@@ -78,8 +78,8 @@ const Courses = () => {
               </div>
               <div className="card-actions justify-center">
                 <button
-                  onClick={() => handleSelectCourses(course)}
-                  className="btn bg-[#2F80ED] text-white my-6 w-80 hover:bg-[#2f81eddd]"
+                  onClick={() =>handleSelectCourses(course)}
+                  className="btn bg-[#2F80ED] text-white my-6 w-80 hover:bg-[#325a8ddd]"
                 >
                   Select
                 </button>
