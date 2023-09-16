@@ -68,13 +68,13 @@ const Courses = () => {
               <p className="text-slate-600">{course.description}</p>
               <div className="flex font-medium my-5">
                 <img src={dollor} alt="" />
-                <p className=" mx-3 font-semibold">Price : {course.price} $</p>
+                <p className=" mx-3 font-semibold text-[#2F80ED]">Price : {course.price} $</p>
 
                 <button>
                   <img src={book} alt="" />
                 </button>
 
-                <p className="ml-5 font-semibold">Credit : {course.Credit} hr</p>
+                <p className="ml-5 font-semibold text-[#2F80ED] ">Credit : {course.Credit} hr</p>
               </div>
               <div className="card-actions justify-center">
                 <button

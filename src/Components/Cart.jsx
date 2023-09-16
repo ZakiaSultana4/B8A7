@@ -17,7 +17,7 @@ const Cart = ({ selectCourses, remaining, cost, price }) => {
         ))}
       </p>
       <hr className="my-5" />
-      <p className="font-semibold"> Total Credit Hour : {cost} </p>
+      <p className="font-semibold text-[#2F80ED]"> Total Credit Hour : {cost} hr </p>
       <hr className="my-5" />
       <p className="font-semibold">Total Price : {price} USD </p>
     </div>
