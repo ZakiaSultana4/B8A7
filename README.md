@@ -10,7 +10,7 @@
 <hr>
 
 <ul>
-<li ><h1 className="text-2xl">Feature--1 : </h1> </li><br>
+<li ><h1 className="text-2xl">Feature--2 : </h1> </li><br>
 </ul>
 
 <img src="Rectangle 2.png">
@@ -20,7 +20,7 @@
 </ul>
 <hr>
 <ul>
-<li ><h1 className="text-2xl">Feature--1 : </h1> </li><br>
+<li ><h1 className="text-2xl">Feature--3 : </h1> </li><br>
 </ul>
 
 <img src="Rectangle 2-3.png">
@@ -32,8 +32,9 @@
 
 <p> Here I Discuss how I managed the state in my assignment project .</p>
 <p>In order to implement state in my components, React provides with a hook called useState. </p>
+<h1>How i manage The useState Hook:<h1><br>
 <ul>
-<li>1)First i import the hook from React: import { useState } from 'react' </li>
+<li>First i import the hook from React: import { useState } from 'react' </li>
 <li><p>Then i initialize the state:</p><br>  
   <p>const [courses, setCourses] = useState([])</p><br>
  <p> const [selectCourses, setSelectCourses] = useState([])</p><br>
