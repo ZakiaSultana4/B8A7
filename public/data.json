@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Introduction to C Programming",
+    "description": "C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. C programming is an excellent language to learn to program for beginners.C programming is Called the Mothered of all Programming Language.",
+    "image": "https://i.ibb.co/kg4D84h/Rectangle-2-2.png",
+    "price": 15000,
+    "Credit": 1
+  },
+
+  {
+    "id": 2,
+    "name": "Introduction to Algorithms",
+    "description": "Algorithms are widely used throughout all areas of IT. In mathematics, computer programming and computer science, an algorithm usually refers to a small procedure that solves a recurrent problem. Algorithms are also used as specifications for performing data processing and play a major role in automated systems.",
+    "image": "https://i.ibb.co/LS9DkF7/Rectangle-2-3.png",
+    "price": 25000,
+    "Credit": 2
+  },
+
+  {
+    "id": 3,
+    "name": "Introduction to C++ for DSA",
+    "description": "C++ is an object-oriented programming language which gives a clear structure to programs and allows code to be reused, lowering development costs. C++ is portable and can be used to develop applications that can be adapted to multiple platforms. C++ is fun and easy to learn.",
+    "image": "https://i.ibb.co/4p71S2Z/Rectangle-2-4.png",
+    "price": 10000,
+    "Credit": 10
+  },
+
+  {
+    "id": 4,
+    "name": "Basic Data Structures",
+    "description": "A data structure is a specialized format for organizing, processing, retrieving and storing data. There are several basic and advanced types of data structures, all designed to arrange data to suit a specific purpose. Data structures make it easy for users to access and work with the data they need in appropriate ways..",
+    "image": "https://i.ibb.co/vJQNx47/Rectangle-3.png",
+    "price": 35000,
+    "Credit": 5
+  },
+
+  {
+    "id": 5,
+    "name": "Introduction to OOP Python",
+    "description": "In Python, object-oriented Programming (OOPs) is a programming paradigm that uses objects and classes in programming. It aims to implement real-world entities like inheritance, polymorphisms, encapsulation, etc. in the programming. The main concept of OOPs is to bind the data and the functions that work on that together as a single unit so that no other part of the code can access this data.",
+    "image": "https://i.ibb.co/vwJ67fR/Rectangle-2.png",
+    "price": 19000,
+    "Credit": 1
+  },
+
+  {
+    "id": 6,
+    "name": "Software Engineering",
+    "description": "Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end users. Software engineers design and develop computer games, business applications, operating systems, network control systems, and middleware—to name just a few of the many career paths available.",
+    "image": "https://i.ibb.co/fr6pTSM/Rectangle-2-5.png",
+    "price": 23000,
+    "Credit": 2
+  },
+
+  {
+    "id": 7,
+    "name": "AWS, Cloud Computing",
+    "description": "Cloud computing is the delivery of different services through the Internet, including data storage, servers, databases, networking, and software. Cloud storage has grown increasingly popular among individuals who need larger storage space and for businesses seeking an efficient off-site data back-up solution.",
+    "image": "https://i.ibb.co/FKb1S40/Rectangle-3-1.png",
+    "price": 35000,
+    "Credit": 3
+  },
+
+  {
+    "id": 8,
+    "name": "Database (MySQL)",
+    "description": "A database is an organized collection of structured information, or data, typically stored electronically in a computer system. A database is usually controlled by a database management system (DBMS). Together, the data and the DBMS, along with the applications that are associated with them, are referred to as a database system, often shortened to just database.",
+    "image": "https://i.ibb.co/Wy6rhGR/Rectangle-2-1.png",
+    "price": 19000,
+    "Credit": 2
+  },
+
+  {
+    "id": 9,
+    "name": "Problem-Solving Part-1",
+    "description": "Solving problems is the core of computer science. Programmers must first understand how a human solves a problem, then understand how to translate this 'algorithm' into something a computer can do, and finally how to 'write' the specific syntax (required by a computer) to get the job done. It is sometimes the case that a machine will solve a problem in a completely different way than a human.",
+    "image": "https://i.ibb.co/R4hgFT2/Rectangle-2-6.png",
+    "price": 23000,
+    "Credit": 1
+  }
+]
